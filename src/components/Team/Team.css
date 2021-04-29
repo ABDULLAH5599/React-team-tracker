@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(4, 4, 98);
+}
+
+.team-container{
+    
+    margin-top: 180px;
+    background-color: rgb(3, 3, 58);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.header-img{
+   
+}
+.header-img img{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    
+    
+}
+.header-title{
+    position: relative;
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+}

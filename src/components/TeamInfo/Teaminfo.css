@@ -1,0 +1,39 @@
+
+.container-info{
+    display: inline-block;
+    float: left;
+   margin-left: 100px;
+    
+   
+}
+.container{
+   
+    margin-top: 50px;
+    background-color: rgb(253, 252, 252);
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+
+.team-info-img img{
+    width: 100%;
+
+    
+}
+.team-info-img{
+
+    width: 300px;
+    height: 3000px;
+    color: black;
+   text-align: center;
+   margin-top: 35px;
+}
+.team-info-img button{
+      background-color: rgb(81, 9, 250);
+      color: white;
+      border: none;
+      padding: 10px 30px;
+      margin-top: 35px;
+}
