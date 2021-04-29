@@ -20,7 +20,7 @@ const TeamDetails = () => {
         .then(res => res.json())
         .then(data => setTeaminfo(data.teams[0]));
         
-    },[]);
+    },[id]);
     let ChangeGenger;
     if(teaminfo.strGender=='Female'){
        ChangeGenger = <img src={image3} alt=""/>
